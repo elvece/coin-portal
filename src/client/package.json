@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "chart.js": "^2.8.0",
+    "chart.js": "^2.9.4",
     "immutability-helper": "^2.9.1",
     "material-ui": "^0.19.4",
     "react": "^15.6.2",
